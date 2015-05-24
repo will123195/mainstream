@@ -1,0 +1,19 @@
+{
+  "name": "mainstream",
+  "version": "1.0.0",
+  "description": "nodejs micro framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/will123195/mainstream.git"
+  },
+  "author": "will123195",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/will123195/mainstream/issues"
+  },
+  "homepage": "https://github.com/will123195/mainstream#readme"
+}
